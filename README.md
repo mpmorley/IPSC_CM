@@ -9,9 +9,10 @@ The RNA-seq data and genotype data used to generate this resource are available 
 
 ### Data Download
 
-* [Raw Counts](https://www.dropbox.com/s/4mnd1iassezsr5y/subread_counts_allgood.RDS?dl=0)
-* [SVA Corrected CPMS](https://www.dropbox.com/s/mpgbhujqezts998/CPMS_SVA_corrected.RDS?dl=0)
-* [Final eSet](https://www.dropbox.com/s/797rft3a7iihhmc/MAGNET_eset.RDS?dl=0)
+
+* [Raw Counts](https://www.dropbox.com/s/okwxf6fxudz5jf2/subread_counts.Rdata?dl=0)
+* [SVA Corrected CPMS](https://www.dropbox.com/s/ukg0pmntobs42ge/SVA_corrected_IPCS_CM.RData?dl=0)
+* [Final eSet](https://www.dropbox.com/s/06wt0rxx0amypxn/IPSC_CM_final.RData?dl=0)
 
 
 
