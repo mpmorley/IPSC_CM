@@ -18,7 +18,7 @@ The RNA-seq data and genotype data used to generate this resource are available 
 
 ## eQTL
 
-Expression quantitative trait locus analysis was performed using the QTLtools package with adjustment for sex, race, and the first 3 genetic principal components and the 11 SVA-computed covariates.
+Expression quantitative trait locus analysis was performed using the [QTLtools](https://qtltools.github.io/qtltools/) package with adjustment for sex, race, and the first 3 genetic principal components and the 11 SVA-computed covariates.
 
 ```bash
 for j in $(seq 1 30); do
